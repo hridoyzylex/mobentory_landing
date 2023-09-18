@@ -6,8 +6,8 @@ function Header() {
         <div id='main'>
             <Navbar />
             <div className="name">
-                <h1><span>Launch You App</span> With Confidence And Creativity </h1>
-                <p className="detail">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, placeat!</p>
+                <h1><span> Mobentory </span> is a inventory management solution </h1>
+                <p className="detail"> It is developed jointly by Teamexus Solutions Ltd. and Innovative Solutions Ltd.</p>
                 <a href="www.teamexus.com" className='cv-btn'>Download</a>
             </div>
         </div>

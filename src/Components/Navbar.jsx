@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../images/logo.png';
+import logo from '../images/Mobentory.png';
 
 function Navbar() {
 
@@ -26,10 +26,11 @@ function Navbar() {
             </label>
             <ul className='menu'>
                 <li><a href="#" className='active'>Home</a></li>
-                <li><a href="#">Features</a></li>
+                
                 <li><a href="#">About</a></li>
-                <li><a href="#">UI SS</a></li>
+                <li><a href="#">Features</a></li>
                 <li><a href="#">Download</a></li>
+        
             </ul>
 
         </nav>
