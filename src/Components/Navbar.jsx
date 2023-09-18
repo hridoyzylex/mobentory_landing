@@ -19,6 +19,7 @@ function Navbar() {
         <nav className={nav ? 'nav active' : 'nav'}>
             <a href='#' className='logo'>
                 <img src={logo} alt='' />
+                <p className="text" >Mobentory</p>
             </a>
             <input type='checkbox' className='menu-btn' id='menu-btn' />
             <label className='menu-icon' for='menu-btn'>
